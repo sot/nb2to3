@@ -1,5 +1,3 @@
-from chandra_aca import __version__
-
 from setuptools import setup
 
 setup(name='nb2to3',
