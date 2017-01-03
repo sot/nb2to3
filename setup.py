@@ -6,7 +6,7 @@ setup(name='nb2to3',
       author_email='taldcroft@cfa.harvard.edu',
       url='https://gist.github.com/takluyver/c8839593c615bb2f6e80',
       entry_points={'console_scripts': ['nb2to3 = nb2to3:main']},
-      version='0.1',
+      version='3.1',
       zip_safe=False,
       packages=['nb2to3'],
       )
